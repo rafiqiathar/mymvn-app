@@ -9,7 +9,8 @@ public class App
     public static void main( String[] args )
     {
         int x=0;
-    	System.out.println( "Hello World of Maven!" + x );
+        char p='p';
+    	System.out.println( "Hello World of Maven!" + x +p );
         
     }
 }
